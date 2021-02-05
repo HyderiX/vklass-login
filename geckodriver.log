@@ -1,0 +1,22 @@
+1612540573807	geckodriver	INFO	Listening on 127.0.0.1:55927
+1612540574827	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/f_/10dh9v_s2_7ggrb15nrfd4rds841p1/T/rust_mozprofileLbeJu2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612540580190	Marionette	INFO	Listening on port 55936
+1612540580281	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612540580302	Marionette	ERROR	[19] No reply from Marionette:Register
+1612540614471	Marionette	INFO	Stopped listening on port 55936
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612540617460	geckodriver	INFO	Listening on 127.0.0.1:56070
+1612540618479	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/f_/10dh9v_s2_7ggrb15nrfd4rds841p1/T/rust_mozprofileKgPcbw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612540622895	Marionette	INFO	Listening on port 56077
+1612540622977	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612540623006	Marionette	ERROR	[19] No reply from Marionette:Register
+1612540632874	Marionette	INFO	Stopped listening on port 56077
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
